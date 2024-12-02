@@ -1,4 +1,4 @@
-Q: How to setup auto-scaling group for Jenkins in AWS ?
+Q: How to setup auto-scaling group for Jenkins in AWS ? Author Abhishek Veeramalla
 
 A: Here is a high-level overview of how to set up an autoscaling group for Jenkins in Amazon Web Services (AWS):
 
